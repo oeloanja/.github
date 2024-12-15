@@ -8,7 +8,7 @@
 
 </div>
 
-# BilliT : P2P loan - investment Web Service
+# BilliT : P2P 대출 - 투자 중개 서비스
 > [KDT]한국경제신문 with TossBank FullStack & MLOps 1기 <br/>
 > 개발 기간: 2024.11.06 ~ 2024.12.17 (약 6주)
 
