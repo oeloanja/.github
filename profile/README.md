@@ -29,3 +29,10 @@
 |:---:|:---:|
 |<img src = "https://github.com/user-attachments/assets/5f00c09c-e78d-4613-817f-6ad959694d34" width="70%" height="70%">|<img src = "https://github.com/user-attachments/assets/52c66ff6-14c9-41de-9c8d-fd2a48fe6006" width="70%" height="70%">|
 |[@jayiuk](https://github.com/jayiuk)|[@jiyoungeeeeeeeeeeeeeeeeeeeee](https://github.com/jiyoungeeeeeeeeeeeeeeeeeeeee)|
+
+# Intro.
+### BilliT은 신용대출을 받기 힘든 외국인 노동자들을 위한 P2P 대출 - 투자 중개 서비스입니다. <br/>
+BilliT에서는 자체적인 신용평가모델을 통해 외국인 노동자들의 신용을 평가하고, 평가 결과 및 대출 신청 금액에 따라 금리를 산정하여 대출을 진행합니다. <br/>
+한국어로 서술된 금융 용어가 낯선 외국인 노동자들을 위해 화면 구석에 항상 챗봇을 열 수 있는 버튼이 존재합니다.
+챗봇은 사용자의 요구에 따라 한국어, 영어, 베트남어로 소통이 가능하며 금융 도메인에 특화된 답변을 합니다. <br/><br/>
+### BilliT은 외국인 노동자를 위한 대출 중개 서비스임과 동시에 투자 중개 서비스이기도 합니다. <br/>
