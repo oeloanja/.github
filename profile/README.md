@@ -35,3 +35,27 @@
 BilliT에서는 자체적인 신용평가모델을 통해 외국인 노동자들의 신용을 평가하고, 평가 결과 및 대출 신청 금액에 따라 금리를 산정하여 대출을 진행합니다. <br/>
 한국어로 서술된 금융 용어가 낯선 외국인 노동자들을 위해 화면 구석에 항상 챗봇을 열 수 있는 버튼이 존재합니다.
 챗봇은 사용자의 요구에 따라 한국어, 영어, 베트남어로 소통이 가능하며 금융 도메인에 특화된 답변을 합니다. <br/><br/>
+
+
+<div>
+ 
+# 🛠 Tech
+## FullStack
+### Frontend
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=Tailwind%20CSS&logoColor=white"/>
+<br/>
+<br/>
+
+### Backend
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=Spring%20Boot&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+
+
+
+</div>
