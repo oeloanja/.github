@@ -21,7 +21,7 @@
 ## 🧩FullStack
 |     김민석     |     이현숙     |     조예은     |     최승혁     |
 |:--------------:|:--------------:|:--------------:|:--------------:|
-|<img src = "https://github.com/user-attachments/assets/0f9f65b3-6856-4ca2-a3bd-02fa60b05fe3" width="70%" height="70%">|<img src = "https://github.com/user-attachments/assets/a4883e27-af92-4639-aa63-e3f51fa8d53c" width="66%" height="66%">|<img src = "https://github.com/user-attachments/assets/db0e74a4-9330-4a5a-82f0-e3bfaf70f2d1" width="70%" height="70%">|<img src = "https://github.com/user-attachments/assets/cdaca065-4567-4c3b-942e-c27eff716889" width="60%" height="60%">|
+|<img src = "https://github.com/user-attachments/assets/0f9f65b3-6856-4ca2-a3bd-02fa60b05fe3" width="70%" height="70%">|<img src = "https://github.com/user-attachments/assets/a4883e27-af92-4639-aa63-e3f51fa8d53c" width="66%" height="66%">|<img src = "https://github.com/user-attachments/assets/db0e74a4-9330-4a5a-82f0-e3bfaf70f2d1" width="70%" height="70%">|<img src = "https://github.com/user-attachments/assets/718e59ec-748a-4479-b245-ec6256fc4cbc" width="60%" height="60%">|
 |[@sulwon](https://github.com/sulwon)|[@platinum57](https://github.com/platinum57)|[@choye-sudo](https://github.com/choye-sudo)|[@qwerasdfxzdcv](https://github.com/qwerasdfxzdcv)|
 
 ## ⚙️MLOps
